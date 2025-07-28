@@ -1,0 +1,40 @@
+{
+  "file": "./models/tracks.json",
+  "tracks": [
+    {
+      "title": "d",
+      "artist": "dd",
+      "duration": 23,
+      "_id": "0fe633b5-4f5c-4836-8b5c-ba5478cd586d",
+      "playlistid": "536bf673-03b3-4234-843f-61ce2b8c8349"
+    },
+    {
+      "title": "",
+      "artist": "",
+      "duration": 0,
+      "_id": "8d1795a8-7034-4f93-af9e-01ad88591d17",
+      "playlistid": "536bf673-03b3-4234-843f-61ce2b8c8349"
+    },
+    {
+      "title": "dd",
+      "artist": "dd",
+      "duration": 0,
+      "_id": "b6f3f88b-2dc6-4da0-b993-95c0ada0c388",
+      "playlistid": "536bf673-03b3-4234-843f-61ce2b8c8349"
+    },
+    {
+      "title": "d",
+      "artist": "d",
+      "duration": null,
+      "_id": "2493f4b3-31ca-4a69-8e06-87dca08d527d",
+      "playlistid": "7687df96-2034-4781-9b4c-c88055d76e8b"
+    },
+    {
+      "title": "defr",
+      "artist": "gghg",
+      "duration": 74,
+      "_id": "4fb8fff3-1562-4aea-be1b-e9fa48926cc1",
+      "playlistid": "7bcd7f90-8232-40f7-b34e-91e23621cc92"
+    }
+  ]
+}
