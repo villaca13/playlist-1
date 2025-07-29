@@ -25,6 +25,11 @@ export const playlistStore = {
     return list;
   },
 
+  async getPlaylistsByUserId(userid) {
+    await db.read();
+    return db.data.playlists.filter((playlist) => playlist.userid === userid);
+  },
+
   async deletePlaylistById(id) {
     await db.read();
     const index = db.data.playlists.findIndex((playlist) => playlist._id === id);
